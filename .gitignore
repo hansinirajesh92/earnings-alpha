@@ -1,0 +1,4 @@
+venv/
+data/sec_filings/
+__pycache__/
+.DS_Store
