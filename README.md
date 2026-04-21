@@ -70,7 +70,7 @@ data via pandas-datareader, yfinance, Tableau
 
 ## Dashboard
 Interactive Tableau visualization available at: 
-[Link to your Tableau Public dashboard if you have one]
+[https://public.tableau.com/app/profile/hansini.rajesh/viz/earnings-alpha/earnings-alphadashboard?publish=yes]
 
 ## Structure
 ```
