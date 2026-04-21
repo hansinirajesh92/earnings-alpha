@@ -1,0 +1,10 @@
+finbert-embedding
+statsmodels
+quantstats
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+pandas-datareader
+sec-edgar-downloader
