@@ -69,8 +69,8 @@ Python, FinBERT, statsmodels, quantstats, Fama-French
 data via pandas-datareader, yfinance, Tableau
 
 ## Dashboard
-Interactive Tableau visualization available at: 
-[https://public.tableau.com/app/profile/hansini.rajesh/viz/earnings-alpha/earnings-alphadashboard?publish=yes]
+Interactive Tableau visualization available at:
+[Earnings Alpha Dashboard](https://public.tableau.com/app/profile/hansini.rajesh/viz/earnings-alpha/earnings-alphadashboard?publish=yes)
 
 ## Structure
 ```
