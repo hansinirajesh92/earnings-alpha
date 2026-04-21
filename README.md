@@ -1,12 +1,12 @@
-# Earnings Alpha Signal — Independent Quantitative Research
+# Earnings Alpha Signal (Independent Quantitative Research)
 
 A systematic alpha signal pipeline that extracts NLP sentiment 
 scores from SEC EDGAR earnings call transcripts and tests whether 
 tone surprise predicts short-term abnormal stock returns.
 
 ## Research Question
-Can the sentiment of executive language in earnings calls — 
-independent of reported EPS numbers — predict short-term 
+Can the sentiment of executive language in earnings calls - 
+independent of reported EPS numbers - predict short-term 
 abnormal stock returns?
 
 ## Methodology
@@ -18,7 +18,7 @@ abnormal stock returns?
 - Price data and EPS actuals/estimates pulled via yfinance
 
 ### 2. NLP Sentiment Scoring
-- Used FinBERT — a BERT model fine-tuned on financial text — 
+- Used FinBERT - a BERT model fine-tuned on financial text - 
   to score CEO remarks and Q&A sections
 - Constructed a "tone surprise" metric by comparing current 
   sentiment score against the trailing average for that company
