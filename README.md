@@ -73,11 +73,35 @@ Interactive Tableau visualization available at:
 [Link to your Tableau Public dashboard if you have one]
 
 ## Structure
+```
 earnings-alpha/
-├── data/           # Raw and processed data
-├── notebooks/      # Analysis notebooks
+├── data/
+│   ├── AAPL_earnings.csv
+│   ├── AAPL_prices.csv
+│   ├── AMZN_earnings.csv
+│   ├── AMZN_prices.csv
+│   ├── GOOGL_earnings.csv
+│   ├── GOOGL_prices.csv
+│   ├── META_earnings.csv
+│   ├── META_prices.csv
+│   ├── MSFT_earnings.csv
+│   ├── MSFT_prices.csv
+│   ├── backtest_metrics.csv
+│   ├── car_results.csv
+│   ├── features.csv
+│   ├── portfolio_performance.csv
+│   ├── sentiment_scores.csv
+│   └── transcripts_clean.json
+├── notebooks/
+│   ├── 01_data_collection.ipynb
+│   ├── 02_sentiment.ipynb
+│   ├── 03_features.ipynb
+│   ├── 04_stats.ipynb
+│   └── 05_backtest.ipynb
 ├── .gitignore
+├── requirements.txt
 └── README.md
+```
 
 ## Future Work
 - Expand to 30+ S&P 500 companies across multiple sectors
